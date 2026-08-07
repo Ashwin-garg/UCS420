@@ -66,3 +66,13 @@ print ("range(2,20,2)=",list(range(2,20,2)))
 print ("range(1,10)=",list(range(1,10)))
 print ("range(-10,-20,2)=",list(range(-10,-20,2)))
 print ("range(-10,-20,-2)=",list(range(-10,-20,-2)))
+
+print("Table of 7")
+for i in range(1, 11):
+    print(f"7 x {i} = {7 * i}")
+
+
+
+print("Table of 9")
+for i in range(1, 11):
+    print(f"9 x {i} = {9 * i}")
